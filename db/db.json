@@ -90,7 +90,7 @@
         "Bacon",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
@@ -101,19 +101,43 @@
         "Cheddar",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 2
     },
     {
-      "nome": "Alexandre Salgueiro",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
+      "nome": "Ricardo",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
       "opcionais": [
-        "Bacon",
-        "Tomate"
+        "Cheddar",
+        "Tomate",
+        "Pepino"
       ],
       "status": "Solicitado",
-      "id": 3
+      "id": 5
+    },
+    {
+      "nome": "Zenildo",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Tomate",
+        "Pepino",
+        "Cebola roxa"
+      ],
+      "status": "Finalizado",
+      "id": 6
+    },
+    {
+      "nome": "Jurandir",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Pepino"
+      ],
+      "status": "Em produção",
+      "id": 7
     }
   ]
 }
