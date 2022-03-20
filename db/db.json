@@ -105,18 +105,6 @@
       "id": 2
     },
     {
-      "nome": "Ricardo",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
       "nome": "Zenildo",
       "carne": "Veggie burger",
       "pao": "Integral",
